@@ -1,0 +1,29 @@
+---
+title: "Example1"
+author: "Wassnaa Al-Mawee"
+date: "2025-01-08"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Science at WMU
+
+[Masters in Data Science](https://wmich.edu/statistics/datascience)
+[Undergraduate in Data Science](https://wmich.edu/statistics/undergraduate)
+
+
+
+## Including Images
+
+![The logo of WMU](/Users/wassnaa/Desktop/Screen\ Shot\ 2025-01-08\ at\ 9.24.04\ AM.png 
+)
+
+## Including Tables 
+
+| name | age |
+| :----|:----|
+| Alice | 25 |
+
